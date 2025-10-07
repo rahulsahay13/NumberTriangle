@@ -122,7 +122,7 @@ public class NumberTriangle {
         // TODO define any variables that you want to use to store things
 
         // will need to return the top of the NumberTriangle,
-        // so might want a variable for that
+        // so might want a variable for that.
         NumberTriangle top = null;
 
         String line = br.readLine();
